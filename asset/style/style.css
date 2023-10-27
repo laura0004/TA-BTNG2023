@@ -1,0 +1,12 @@
+* {
+  font-family: "Comic Neue", cursive;
+  font-family: "Poppins", sans-serif;
+}
+
+.bg-warning {
+  background-color: maroon !important;
+}
+
+.bg-light {
+  background-color: rgb(238, 232, 175) !important;
+}
